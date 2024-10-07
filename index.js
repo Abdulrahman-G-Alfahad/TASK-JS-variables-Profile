@@ -34,9 +34,9 @@ const image = "https://miro.medium.com/v2/resize:fit:1200/1*6Jp3vJWe7VFlFHZ9WhSJ
  * You can uncomment a line by removing the // at the start
  */
 
-// const fullNameString = `My name is ${}`;
-// const yearOfBirthString =
-// const hobbyString =
+const fullNameString = `My name is ${fullName}`;
+const yearOfBirthString =`I am ${2024 - yearOfBirth}`;
+const hobbyString = `my hobby is ${hobby};`
 
 
 
