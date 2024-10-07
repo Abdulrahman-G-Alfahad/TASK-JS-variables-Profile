@@ -11,6 +11,11 @@
 
 // Part 1 answer 👇🏻 ...
 
+const fullName = "Abdulrahman Alfahad";
+const yearOfBirth = 1997;
+const hobby = "Reading";
+const funFact = "I read anywhere between 10 to 30 books a year";
+const image = "https://miro.medium.com/v2/resize:fit:1200/1*6Jp3vJWe7VFlFHZ9WhSJng.jpeg";
 
 
 
